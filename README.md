@@ -20,13 +20,13 @@ Demostración del sorteo entre mas de 3 nombres ingresados
 <img src="assets/Demostración exitosa.png">
 
 <h2>🛠️Tecnologias utilizadas</h2>
-- **HTML** - Estructura y maquetación del proyecto
-- **CSS** - Estilado y cambios en la visualización
-- **JS** - Funcionalidad y dinamismo al proyecto
+-**HTML** - Estructura y maquetación del proyecto
+-**CSS** - Estilado y cambios en la visualización
+-**JS** - Funcionalidad y dinamismo al proyecto
 
-<h2>Como jugar ⬇️</h2>
+<h2>¿Cómo jugar? ⬇️</h2>
 1. Clonar el repositorio a local 
-```bash
+    ```bash
     git clone https://github.com/AkiraYumoto/Challenge-Amigo-Secreto.git
     cd Challenge-Amigo-Secreto
 
