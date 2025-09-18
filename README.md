@@ -26,8 +26,9 @@ Demostración del sorteo entre mas de 3 nombres ingresados
 
 ## ¿Cómo jugar? ⬇️
 1. Clonar el repositorio a local  
-    `git clone https://github.com/AkiraYumoto/Challenge-Amigo-Secreto.git
-    cd Challenge-Amigo-Secreto`
+    ```bash
+    git clone https://github.com/AkiraYumoto/Challenge-Amigo-Secreto.git
+    cd Challenge-Amigo-Secreto
 2. Abrir el index.html desde el explorador archivos o utilizando Live Server desde Visual Studio Code
 
 3. Escribir cada nombre dentro del espacio de texto y luego presionar el botón <strong>Añadir</strong> 
